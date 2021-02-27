@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Mikhael Dito Manurung",
+    "description": "Welcome to our new blog, Mikhael Dito Manurung. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Mikhael D. Manurung",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-02-27",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-27T21:02:17+01:00",
+    "input_file": "welcome.utf8.md"
+  }
+]
